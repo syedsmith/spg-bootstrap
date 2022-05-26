@@ -1,3 +1,11 @@
+# My Learning
+* Get Request body as DTO
+* Lombok for DTO with @Builder, @Data, @NoArgsConstructor, @AllArgsConstructor
+* @JSONProperty for DTO
+* MVC Validation with annotation
+* Custom Validation with annotation
+* Exception Handler
+
 # Read Me First
 The following was discovered as part of building this project:
 
