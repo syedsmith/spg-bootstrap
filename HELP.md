@@ -1,5 +1,6 @@
 # My Learning
 * Get Request body as DTO
+* ENUMS
 * Lombok for DTO with @Builder, @Data, @NoArgsConstructor, @AllArgsConstructor
 * @JSONProperty for DTO
 * MVC Validation with annotation
